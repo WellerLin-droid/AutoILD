@@ -1,0 +1,11 @@
+./__pycache__/
+.pytest_cache/
+src/ild_classifier.egg-info/
+*.xlsx
+
+*.pyc
+
+tests/
+
+!data/input/readme.txt
+!data/output/readme.txt
